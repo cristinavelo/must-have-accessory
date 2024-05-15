@@ -1,0 +1,14 @@
+body {
+  background: black;
+  margin: 100px 50px;
+}
+
+.container {
+  padding: 30px;
+  background: white;
+  border: none;
+  border-radius: 20px;
+  font-family: "Shippori Mincho", serif;
+  font-weight: 400;
+  font-style: normal;
+}
